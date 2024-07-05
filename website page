@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>how to create a simple website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="menu-area">
+        <a href="#" class="logo">beautiful place</a>
+        <ul class="nav">
+            <li><a href="#home">home</a></li>
+            <li><a href="#about">about</a></li>
+            <li><a href="#help">help</a></li>
+            <li><a href="#service">service</a></li>
+            <li><a href="#contact">contact</a></li>
+
+        </ul>
+    </div>
+    <section id="home">
+        <div class="content">
+            <h1>travel</h1>
+            <p>Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.
+            </p>
+        </div>
+    </section>
+    <section id="about">
+        <div class="content">
+            <h1>famous place</h1>
+            <p>goa,manali,jammu kashmir,gujarat,coorg,munnar,tamil nadu,mp,etc... The Taj Mahal, Agra. ... The Red Fort, New Delhi. ... The Gateway of India, Mumbai. ... Amber Palace, Jaipur. ... Agra Fort. ... Mysore Palace. ... Ajanta Caves. ... Harmandir
+                Sahib, Amritsar.
+
+            </p>
+        </div>
+    </section>
+    <section id="help">
+        <div class="content">
+            <h1>help </h1>
+            <p>Content can help improve the performance of your website over time. It can be effective at attracting your target audience to your website, engaging them with your brand, and over time, it can also help you convert more of your traffic to
+                customers. Learn how to create a simple content strategy for your website.
+
+            </p>
+        </div>
+    </section>
+    <section id="service">
+        <div class="content">
+            <h1>service section</h1>
+            <p>A service website is a type of website that's designed to showcase and promote a specific service or set of services from a business or individual The main purpose of a service website is to inform potential clients or customers about the
+                services provided, while highlighting the benefits of those services
+            </p>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="content">
+            <h1>contact section</h1>
+            <p>first Name: Last Name: 'Robert Johnson' Phone Number: e.g. '004 412 2019' Email Address: e.g. 'robert@novoresume.com'
+            </p>
+        </div>
+    </section>
+
+</body>
+
+</html>
